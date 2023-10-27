@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\web-development\\level-2\\portfolio\\portfolio-server\\logs\\winston\\successes\\.8850cd62b84ea0326dff813f796709538daef22b-audit.json",
+    "files": [
+        {
+            "date": 1698397380782,
+            "name": "D:\\web-development\\level-2\\portfolio\\portfolio-server\\logs\\winston\\successes\\phu-2023-27-10-15-success.log",
+            "hash": "0006387c54bb77a2a639196302de73a2019d619a5d0befd7978c62e13250b08f"
+        }
+    ],
+    "hashType": "sha256"
+}
